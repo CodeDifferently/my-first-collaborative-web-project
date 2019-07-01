@@ -32,3 +32,14 @@
 
 #### Part 4 - Edit the `index.html`
 * Edit the `index.html` page to include a link to each of the newly created `profile.html` pages.
+
+
+#### Part 5 - Publish the project online
+1. Navigate to the _settings_ tab of the repository.
+2. Scroll down until you see `GitHub Pages` section
+3. Select `Use the master branch for Github Pages`
+4. Scroll down until you see `Your site is published at ...`
+5. Copy the link associated with your site.
+6. Navigate to your repository.
+7. Edit the description of your respotory by adding a link to the site.
+
